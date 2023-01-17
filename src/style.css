@@ -45,9 +45,8 @@ font-size: 7rem;
  }
  #CardBtn {
     margin:10px;
-    outline: 1px dotted red;
     background-color: white;
-    border: 2px solid grey;
+    border: 3px solid black;
     border-radius: 5px;
     block-size: 3em;
     padding:10px;
